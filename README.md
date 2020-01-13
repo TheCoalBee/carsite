@@ -1,0 +1,1 @@
+This is a website created by Colby and Ryan to help learn more about HTML, CSS, and JavaScript. We will demonstrate what we have learned and apply our skills to the website.
